@@ -7,38 +7,40 @@ namespace Challenge_Guess_The_Number
 
         public static int Process(int number)
         {
-        List<int> num = new List<int>();
-        while(number != 10) {
-            int counter = 7;
-            num.Add(number);
+        int counter = 7;
+        while (number != 10) {
+            List<int> list = new List<int>();
+            list.Add(number);
             number = Convert.ToInt32(Console.ReadLine());
-            counter--;
         if (number == 10) {
+            counter--;
             System.Console.WriteLine("Damn. You Win!");
             System.Console.WriteLine("The Number was indeed 10");
+            System.Console.WriteLine("You guessed the number in " + counter + " guesses");
         }
 
-        else if (number !=10) {
-            
         if (number > 10) {
+            counter--;
             System.Console.WriteLine("Nope, its less than that!");
+            System.Console.WriteLine("You have " + counter + " guesses left!");
            
         }
         else if (number < 10) {
+            counter--;
             System.Console.WriteLine("Nope, its greater than that!");
-           
+            System.Console.WriteLine("You have " + counter + " guesses left!");
         }
         if (counter == 0)
         {
-            System.Console.WriteLine("you ran out of guesses");
+            System.Console.WriteLine("HAHAHA YOU LOOSE!");
+            System.Console.WriteLine("The number was 10 YOU FOOL.");
         }
-        else if (counter !=0)
+        foreach (int num in list)
         {
-            System.Console.WriteLine("You have " + counter + " gusses left");
+            list.
         }
         }
         
-        }
         return number;
         }
         static void Main(string[] args)
@@ -50,7 +52,7 @@ namespace Challenge_Guess_The_Number
         int input = Convert.ToInt32(Console.ReadLine());
 
         
-       Console.WriteLine(Process(input) );
+       Console.WriteLine(Process(input));
         
         }
     }
