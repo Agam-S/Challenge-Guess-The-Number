@@ -1,0 +1,15 @@
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/bin/Debug/net5.0/Challenge-Guess-The-Number.deps.json
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/bin/Debug/net5.0/Challenge-Guess-The-Number.runtimeconfig.json
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/bin/Debug/net5.0/Challenge-Guess-The-Number.runtimeconfig.dev.json
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/bin/Debug/net5.0/Challenge-Guess-The-Number.dll
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/bin/Debug/net5.0/ref/Challenge-Guess-The-Number.dll
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/bin/Debug/net5.0/Challenge-Guess-The-Number.pdb
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/obj/Debug/net5.0/Challenge-Guess-The-Number.csprojAssemblyReference.cache
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/obj/Debug/net5.0/Challenge-Guess-The-Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/obj/Debug/net5.0/Challenge-Guess-The-Number.AssemblyInfoInputs.cache
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/obj/Debug/net5.0/Challenge-Guess-The-Number.AssemblyInfo.cs
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/obj/Debug/net5.0/Challenge-Guess-The-Number.csproj.CoreCompileInputs.cache
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/obj/Debug/net5.0/Challenge-Guess-The-Number.dll
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/obj/Debug/net5.0/ref/Challenge-Guess-The-Number.dll
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/obj/Debug/net5.0/Challenge-Guess-The-Number.pdb
+/Users/agamsingh/Documents/CProjects/Challenge-Guess-The-Number/obj/Debug/net5.0/Challenge-Guess-The-Number.genruntimeconfig.cache
