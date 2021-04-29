@@ -10,13 +10,13 @@ namespace Challenge_Guess_The_Number
         int number = 0;
         int counter = 7;
         int counter1 = 0;
-        
+        List<int> list = new List<int>();
         while (number != 10) {
 
             Console.Write("Enter a Guess: ");
             number = Convert.ToInt32(Console.ReadLine());
 
-            List<int> list = new List<int>();
+            
             list.Add(number);
 
 
@@ -49,7 +49,10 @@ namespace Challenge_Guess_The_Number
         }
     
         }
-       
+        foreach(int thing in list)
+        {
+            Console.Write("{ " + thing + " }");
+        }
         return number;
         }
 
