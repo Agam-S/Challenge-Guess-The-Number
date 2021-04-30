@@ -39,6 +39,7 @@ namespace Challenge_Guess_The_Number
             System.Console.WriteLine("Damn. You Win!");
             System.Console.WriteLine("The Number was indeed " + ran);
             System.Console.WriteLine("You guessed the number in " + counter1 + " guesses");
+            break;
         }
 
         // If statement add on: If the user's guess is less than random number //
